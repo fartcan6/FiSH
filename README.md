@@ -12,7 +12,7 @@
   
   _•yes i used replit so what (i am on my phone as im speaking rn)_
 
- **i will work it on VScode soon if my laptop doesnt keep crashing when opening it**
+ **i will work it on xcode soon**
 
 | IPHONES        | Version           | nil  |
 | ------------- |:-------------:| -----:|
@@ -20,4 +20,4 @@
 | **Iphone 7+**      | `15.7+`      |   nil |
 | **Iphone 8** | `15.7+`      |    nil |
 
-**IM NOT SURE IF I WANTED IT 
+**IM NOT SURE ABOUT THE IOS VERSION**
