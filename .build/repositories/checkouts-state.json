@@ -1,0 +1,15 @@
+{
+  "object" : {
+    "repositories" : {
+      "https://github.com/Alamofire/Alamofire.git" : {
+        "repositoryURL" : "https://github.com/Alamofire/Alamofire.git",
+        "subpath" : "Alamofire-e8f130fe"
+      },
+      "https://github.com/SwiftyJSON/SwiftyJSON.git" : {
+        "repositoryURL" : "https://github.com/SwiftyJSON/SwiftyJSON.git",
+        "subpath" : "SwiftyJSON-9be1ce9c"
+      }
+    }
+  },
+  "version" : 1
+}

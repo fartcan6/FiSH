@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/MyCatsTarget.build/master.swiftdeps"
+  },
+  "/home/runner/stop-giving-me-errors/Sources/mycatstarget/main.swift": {
+    "dependencies": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/MyCatsTarget.build/main.d",
+    "object": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/MyCatsTarget.build/main.swift.o",
+    "swiftmodule": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/MyCatsTarget.build/main~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/MyCatsTarget.build/main.swiftdeps"
+  }
+}

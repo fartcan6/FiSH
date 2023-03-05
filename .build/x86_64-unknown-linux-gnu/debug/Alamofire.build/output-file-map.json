@@ -1,0 +1,221 @@
+{
+  "": {
+    "swift-dependencies": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/master.swiftdeps"
+  },
+  "/home/runner/stop-giving-me-errors/.build/checkouts/Alamofire/Source/AFError.swift": {
+    "dependencies": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/AFError.d",
+    "object": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/AFError.swift.o",
+    "swiftmodule": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/AFError~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/AFError.swiftdeps"
+  },
+  "/home/runner/stop-giving-me-errors/.build/checkouts/Alamofire/Source/Alamofire.swift": {
+    "dependencies": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/Alamofire.d",
+    "object": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/Alamofire.swift.o",
+    "swiftmodule": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/Alamofire~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/Alamofire.swiftdeps"
+  },
+  "/home/runner/stop-giving-me-errors/.build/checkouts/Alamofire/Source/AlamofireExtended.swift": {
+    "dependencies": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/AlamofireExtended.d",
+    "object": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/AlamofireExtended.swift.o",
+    "swiftmodule": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/AlamofireExtended~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/AlamofireExtended.swiftdeps"
+  },
+  "/home/runner/stop-giving-me-errors/.build/checkouts/Alamofire/Source/AuthenticationInterceptor.swift": {
+    "dependencies": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/AuthenticationInterceptor.d",
+    "object": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/AuthenticationInterceptor.swift.o",
+    "swiftmodule": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/AuthenticationInterceptor~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/AuthenticationInterceptor.swiftdeps"
+  },
+  "/home/runner/stop-giving-me-errors/.build/checkouts/Alamofire/Source/CachedResponseHandler.swift": {
+    "dependencies": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/CachedResponseHandler.d",
+    "object": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/CachedResponseHandler.swift.o",
+    "swiftmodule": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/CachedResponseHandler~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/CachedResponseHandler.swiftdeps"
+  },
+  "/home/runner/stop-giving-me-errors/.build/checkouts/Alamofire/Source/Combine.swift": {
+    "dependencies": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/Combine.d",
+    "object": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/Combine.swift.o",
+    "swiftmodule": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/Combine~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/Combine.swiftdeps"
+  },
+  "/home/runner/stop-giving-me-errors/.build/checkouts/Alamofire/Source/Concurrency.swift": {
+    "dependencies": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/Concurrency.d",
+    "object": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/Concurrency.swift.o",
+    "swiftmodule": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/Concurrency~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/Concurrency.swiftdeps"
+  },
+  "/home/runner/stop-giving-me-errors/.build/checkouts/Alamofire/Source/DispatchQueue+Alamofire.swift": {
+    "dependencies": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/DispatchQueue+Alamofire.d",
+    "object": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/DispatchQueue+Alamofire.swift.o",
+    "swiftmodule": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/DispatchQueue+Alamofire~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/DispatchQueue+Alamofire.swiftdeps"
+  },
+  "/home/runner/stop-giving-me-errors/.build/checkouts/Alamofire/Source/EventMonitor.swift": {
+    "dependencies": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/EventMonitor.d",
+    "object": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/EventMonitor.swift.o",
+    "swiftmodule": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/EventMonitor~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/EventMonitor.swiftdeps"
+  },
+  "/home/runner/stop-giving-me-errors/.build/checkouts/Alamofire/Source/HTTPHeaders.swift": {
+    "dependencies": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/HTTPHeaders.d",
+    "object": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/HTTPHeaders.swift.o",
+    "swiftmodule": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/HTTPHeaders~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/HTTPHeaders.swiftdeps"
+  },
+  "/home/runner/stop-giving-me-errors/.build/checkouts/Alamofire/Source/HTTPMethod.swift": {
+    "dependencies": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/HTTPMethod.d",
+    "object": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/HTTPMethod.swift.o",
+    "swiftmodule": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/HTTPMethod~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/HTTPMethod.swiftdeps"
+  },
+  "/home/runner/stop-giving-me-errors/.build/checkouts/Alamofire/Source/MultipartFormData.swift": {
+    "dependencies": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/MultipartFormData.d",
+    "object": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/MultipartFormData.swift.o",
+    "swiftmodule": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/MultipartFormData~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/MultipartFormData.swiftdeps"
+  },
+  "/home/runner/stop-giving-me-errors/.build/checkouts/Alamofire/Source/MultipartUpload.swift": {
+    "dependencies": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/MultipartUpload.d",
+    "object": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/MultipartUpload.swift.o",
+    "swiftmodule": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/MultipartUpload~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/MultipartUpload.swiftdeps"
+  },
+  "/home/runner/stop-giving-me-errors/.build/checkouts/Alamofire/Source/NetworkReachabilityManager.swift": {
+    "dependencies": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/NetworkReachabilityManager.d",
+    "object": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/NetworkReachabilityManager.swift.o",
+    "swiftmodule": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/NetworkReachabilityManager~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/NetworkReachabilityManager.swiftdeps"
+  },
+  "/home/runner/stop-giving-me-errors/.build/checkouts/Alamofire/Source/Notifications.swift": {
+    "dependencies": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/Notifications.d",
+    "object": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/Notifications.swift.o",
+    "swiftmodule": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/Notifications~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/Notifications.swiftdeps"
+  },
+  "/home/runner/stop-giving-me-errors/.build/checkouts/Alamofire/Source/OperationQueue+Alamofire.swift": {
+    "dependencies": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/OperationQueue+Alamofire.d",
+    "object": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/OperationQueue+Alamofire.swift.o",
+    "swiftmodule": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/OperationQueue+Alamofire~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/OperationQueue+Alamofire.swiftdeps"
+  },
+  "/home/runner/stop-giving-me-errors/.build/checkouts/Alamofire/Source/ParameterEncoder.swift": {
+    "dependencies": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/ParameterEncoder.d",
+    "object": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/ParameterEncoder.swift.o",
+    "swiftmodule": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/ParameterEncoder~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/ParameterEncoder.swiftdeps"
+  },
+  "/home/runner/stop-giving-me-errors/.build/checkouts/Alamofire/Source/ParameterEncoding.swift": {
+    "dependencies": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/ParameterEncoding.d",
+    "object": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/ParameterEncoding.swift.o",
+    "swiftmodule": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/ParameterEncoding~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/ParameterEncoding.swiftdeps"
+  },
+  "/home/runner/stop-giving-me-errors/.build/checkouts/Alamofire/Source/Protected.swift": {
+    "dependencies": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/Protected.d",
+    "object": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/Protected.swift.o",
+    "swiftmodule": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/Protected~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/Protected.swiftdeps"
+  },
+  "/home/runner/stop-giving-me-errors/.build/checkouts/Alamofire/Source/RedirectHandler.swift": {
+    "dependencies": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/RedirectHandler.d",
+    "object": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/RedirectHandler.swift.o",
+    "swiftmodule": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/RedirectHandler~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/RedirectHandler.swiftdeps"
+  },
+  "/home/runner/stop-giving-me-errors/.build/checkouts/Alamofire/Source/Request.swift": {
+    "dependencies": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/Request.d",
+    "object": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/Request.swift.o",
+    "swiftmodule": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/Request~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/Request.swiftdeps"
+  },
+  "/home/runner/stop-giving-me-errors/.build/checkouts/Alamofire/Source/RequestInterceptor.swift": {
+    "dependencies": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/RequestInterceptor.d",
+    "object": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/RequestInterceptor.swift.o",
+    "swiftmodule": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/RequestInterceptor~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/RequestInterceptor.swiftdeps"
+  },
+  "/home/runner/stop-giving-me-errors/.build/checkouts/Alamofire/Source/RequestTaskMap.swift": {
+    "dependencies": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/RequestTaskMap.d",
+    "object": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/RequestTaskMap.swift.o",
+    "swiftmodule": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/RequestTaskMap~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/RequestTaskMap.swiftdeps"
+  },
+  "/home/runner/stop-giving-me-errors/.build/checkouts/Alamofire/Source/Response.swift": {
+    "dependencies": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/Response.d",
+    "object": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/Response.swift.o",
+    "swiftmodule": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/Response~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/Response.swiftdeps"
+  },
+  "/home/runner/stop-giving-me-errors/.build/checkouts/Alamofire/Source/ResponseSerialization.swift": {
+    "dependencies": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/ResponseSerialization.d",
+    "object": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/ResponseSerialization.swift.o",
+    "swiftmodule": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/ResponseSerialization~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/ResponseSerialization.swiftdeps"
+  },
+  "/home/runner/stop-giving-me-errors/.build/checkouts/Alamofire/Source/Result+Alamofire.swift": {
+    "dependencies": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/Result+Alamofire.d",
+    "object": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/Result+Alamofire.swift.o",
+    "swiftmodule": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/Result+Alamofire~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/Result+Alamofire.swiftdeps"
+  },
+  "/home/runner/stop-giving-me-errors/.build/checkouts/Alamofire/Source/RetryPolicy.swift": {
+    "dependencies": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/RetryPolicy.d",
+    "object": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/RetryPolicy.swift.o",
+    "swiftmodule": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/RetryPolicy~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/RetryPolicy.swiftdeps"
+  },
+  "/home/runner/stop-giving-me-errors/.build/checkouts/Alamofire/Source/ServerTrustEvaluation.swift": {
+    "dependencies": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/ServerTrustEvaluation.d",
+    "object": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/ServerTrustEvaluation.swift.o",
+    "swiftmodule": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/ServerTrustEvaluation~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/ServerTrustEvaluation.swiftdeps"
+  },
+  "/home/runner/stop-giving-me-errors/.build/checkouts/Alamofire/Source/Session.swift": {
+    "dependencies": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/Session.d",
+    "object": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/Session.swift.o",
+    "swiftmodule": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/Session~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/Session.swiftdeps"
+  },
+  "/home/runner/stop-giving-me-errors/.build/checkouts/Alamofire/Source/SessionDelegate.swift": {
+    "dependencies": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/SessionDelegate.d",
+    "object": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/SessionDelegate.swift.o",
+    "swiftmodule": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/SessionDelegate~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/SessionDelegate.swiftdeps"
+  },
+  "/home/runner/stop-giving-me-errors/.build/checkouts/Alamofire/Source/StringEncoding+Alamofire.swift": {
+    "dependencies": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/StringEncoding+Alamofire.d",
+    "object": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/StringEncoding+Alamofire.swift.o",
+    "swiftmodule": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/StringEncoding+Alamofire~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/StringEncoding+Alamofire.swiftdeps"
+  },
+  "/home/runner/stop-giving-me-errors/.build/checkouts/Alamofire/Source/URLConvertible+URLRequestConvertible.swift": {
+    "dependencies": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/URLConvertible+URLRequestConvertible.d",
+    "object": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/URLConvertible+URLRequestConvertible.swift.o",
+    "swiftmodule": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/URLConvertible+URLRequestConvertible~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/URLConvertible+URLRequestConvertible.swiftdeps"
+  },
+  "/home/runner/stop-giving-me-errors/.build/checkouts/Alamofire/Source/URLEncodedFormEncoder.swift": {
+    "dependencies": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/URLEncodedFormEncoder.d",
+    "object": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/URLEncodedFormEncoder.swift.o",
+    "swiftmodule": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/URLEncodedFormEncoder~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/URLEncodedFormEncoder.swiftdeps"
+  },
+  "/home/runner/stop-giving-me-errors/.build/checkouts/Alamofire/Source/URLRequest+Alamofire.swift": {
+    "dependencies": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/URLRequest+Alamofire.d",
+    "object": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/URLRequest+Alamofire.swift.o",
+    "swiftmodule": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/URLRequest+Alamofire~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/URLRequest+Alamofire.swiftdeps"
+  },
+  "/home/runner/stop-giving-me-errors/.build/checkouts/Alamofire/Source/URLSessionConfiguration+Alamofire.swift": {
+    "dependencies": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/URLSessionConfiguration+Alamofire.d",
+    "object": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/URLSessionConfiguration+Alamofire.swift.o",
+    "swiftmodule": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/URLSessionConfiguration+Alamofire~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/URLSessionConfiguration+Alamofire.swiftdeps"
+  },
+  "/home/runner/stop-giving-me-errors/.build/checkouts/Alamofire/Source/Validation.swift": {
+    "dependencies": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/Validation.d",
+    "object": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/Validation.swift.o",
+    "swiftmodule": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/Validation~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/stop-giving-me-errors/.build/x86_64-unknown-linux-gnu/debug/Alamofire.build/Validation.swiftdeps"
+  }
+}
