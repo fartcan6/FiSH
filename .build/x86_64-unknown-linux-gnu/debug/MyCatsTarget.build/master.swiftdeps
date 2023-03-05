@@ -1,6 +1,6 @@
 version: "Swift version 5.6.2 (swift-5.6.2-RELEASE)"
 options: "8ef5046fbbd1600d3acfa786da61fd8406f925629add4420526302146e4e0aa2"
-build_start_time: [1678001418, 120768070]
-build_end_time: [1678001418, 405508995]
+build_start_time: [1678021541, 611088037]
+build_end_time: [1678021541, 910248994]
 inputs:
   "/home/runner/stop-giving-me-errors/Sources/mycatstarget/main.swift": [1678000719, 892533779]

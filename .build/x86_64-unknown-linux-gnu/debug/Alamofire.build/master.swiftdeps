@@ -1,7 +1,7 @@
 version: "Swift version 5.6.2 (swift-5.6.2-RELEASE)"
 options: "90b54327614ca6561a87234e98b7b0a59dc6edf3a2f16cedb5d63b85890750fb"
-build_start_time: [1678001414, 220361948]
-build_end_time: [1678001417, 944692134]
+build_start_time: [1678021506, 349100112]
+build_end_time: [1678021541, 459113121]
 inputs:
   "/home/runner/stop-giving-me-errors/.build/checkouts/Alamofire/Source/AFError.swift": [1677944967, 964288711]
   "/home/runner/stop-giving-me-errors/.build/checkouts/Alamofire/Source/Alamofire.swift": [1677944967, 964288711]

@@ -4,7 +4,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "fartem",
+    name: "MyProject",
     platforms: [
         .iOS(.v15),
     ],
@@ -12,13 +12,21 @@ let package = Package(
         .package(url: "https://github.com/Alamofire/Alamofire.git", from: "5.4.3")
     ],
     targets: [
-        .target(
+        .executableTarget(
+            name: "MyExecutableTarget",
+            dependencies: [
+                .product(name: "Alamofire", package: "Alamofire")
+            ],
+            path: "Sources/myexecutabletarget",
+            sources: ["MyExecutableTarget.swift"]
+        ),
+        .executableTarget(
             name: "MyCatsTarget",
             dependencies: [
                 .product(name: "Alamofire", package: "Alamofire")
             ],
             path: "Sources/mycatstarget",
-            sources: ["main.swift"]
+            sources: ["MyCatsTarget.swift"]
         )
     ]
 )

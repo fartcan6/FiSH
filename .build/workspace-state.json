@@ -20,23 +20,6 @@
           "name" : "sourceControlCheckout"
         },
         "subpath" : "Alamofire"
-      },
-      {
-        "basedOn" : null,
-        "packageRef" : {
-          "identity" : "swiftyjson",
-          "kind" : "remoteSourceControl",
-          "location" : "https://github.com/SwiftyJSON/SwiftyJSON.git",
-          "name" : "SwiftyJSON"
-        },
-        "state" : {
-          "checkoutState" : {
-            "revision" : "b3dcd7dbd0d488e1a7077cb33b00f2083e382f07",
-            "version" : "5.0.1"
-          },
-          "name" : "sourceControlCheckout"
-        },
-        "subpath" : "SwiftyJSON"
       }
     ]
   },
